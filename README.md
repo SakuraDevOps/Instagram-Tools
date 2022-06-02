@@ -22,6 +22,7 @@ $ apt update
 $ apt upgrade
 $ pkg install git
 $ pkg install python
+$ pip install requests
 $ git clone https://github.com/SakuraDevOps/Instagram-Tools
 $ cd Instagram-Tools
 $ ls
